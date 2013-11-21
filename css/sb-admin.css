@@ -1,12 +1,7 @@
 /* 
-Author: Start Bootstrap - http://startbootstrap.com
-'SB Admin' HTML Template by Start Bootstrap
-
-All Start Bootstrap themes are licensed under Apache 2.0. 
-For more info and more free Bootstrap 3 HTML themes, visit http://startbootstrap.com!
+Author: Tommaso Nervegna
+'WWS Admin' HTML Template
 */
-
-/* ATTN: This is mobile first CSS - to update 786px and up screen width use the media query near the bottom of the document! */
 
 /* Global Styles */
 
@@ -111,7 +106,7 @@ table.tablesorter thead tr th:hover {
 	overflow-y: auto;
   }
 
-  /* Bootstrap Default Overrides - Customized Dropdowns for the Side Nav */
+  /* WWS Default Overrides - Customized Dropdowns for the Side Nav */
 
   .side-nav>li.dropdown>ul.dropdown-menu {
 	position: relative;
