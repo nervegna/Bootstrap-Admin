@@ -1,6 +1,4 @@
-a.thumbnail {
-	margin-bottom: 30px;
-}/* 
+/* 
 Author: Tommaso Nervegna
 'WWS Admin' HTML Template
 */
@@ -157,4 +155,7 @@ div.collapse.navbar-collapse.navbar-ex1-collapse {
 	white-space: normal;
   }
 
+}
+a.thumbnail {
+	margin-bottom: 30px;
 }
